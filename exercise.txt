@@ -1,3 +1,5 @@
 exercise of git in english.
 
 this is my first exercise in git.
+
+Try to set news changes with ssh connection.
